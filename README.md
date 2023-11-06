@@ -1,10 +1,19 @@
 ### Olá, meu nome é Vinicius Alexandre
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Vini-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning System Web Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | 
+- 🌐 &nbsp;  flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
 <br>
 
