@@ -18,10 +18,8 @@
 <br>
 <div>
   <a href="https://github.com/ViniciusAlexandreBraz/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlexandreBraz&theme=nightowl&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/ViniciusAlexandreBraz/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlexandreBraz&layout=donut&theme=nightowl"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlexandreBraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlexandreBraz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 </div>
